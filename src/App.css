@@ -1,38 +1,131 @@
 .App {
   text-align: center;
+  width: 70%;
+  margin: auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header{
+
+ 
+ 
+  margin-top: 10px;
+  background-color:  rgb(173, 197, 233);
+  height: 100px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.input-header{
+ display: inline;
+  /* padding-top: 0px; */
+  /* width: 200px; */
+  background-color: rgb(173, 197, 233);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.input-header input{
+  height: 30px;
+ margin: 1px;
+ width: 200px;
 }
 
-.App-link {
-  color: #61dafb;
+h2{
+  margin: auto 0;
+ 
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h4{
+  float: left;
+}
+
+.panel{
+  
+  width: 100%;
+  height: auto;
+  background-color: rgb(239, 252, 252);
+}
+
+
+
+input{
+  font-size: 18px;
+  vertical-align: middle;
+  margin: 5px 50px 5px 5px;
+  border-radius: 5px;
+  padding: 7px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  width: 170px;
+}
+
+.add-new{
+ font-size: 16px;
+ margin-left: 5px;
+}
+
+.add{
+width: 100px;
+}
+
+.trash-bin {
+ float: right;
+ margin-right: 5px;
+ font-size: 1.4rem;
+ border-radius: 5px;
+}
+
+.col1{
+  position: absolute;
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 10px;
+  float: right;
+  z-index: 1;
+}
+
+.container{
+  padding-top: 20px;
+}
+
+.card-box{
+  padding: 10px;
+}
+
+li{
+  text-align: justify;
+}
+.cell{
+  
+  /* background-color: whitesmoke; */
+  padding: 3px;
+}
+
+li hr{
+  margin: 0;
+}
+
+
+.cell input{
+  width: auto;
+  cursor: pointer;
+  
+}
+
+.del-player{
+  width: 30px;
+  height: 30px;
+  padding: 3px 3px;
+  position: relative;
+  margin-right: 20px;
+  float: left;
+  background-color: rgb(218, 135, 121);
+}
+.player{
+
+  margin-right: 40px;
+  
+}
+.bt{
+  margin: 0 5px;
+}
+
+.controllers{
+  float: right;
 }
