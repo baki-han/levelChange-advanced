@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/levelChange-advanced/static/css/main.7a4dbaea.chunk.css",
+    "main.js": "/levelChange-advanced/static/js/main.31728c68.chunk.js",
+    "main.js.map": "/levelChange-advanced/static/js/main.31728c68.chunk.js.map",
+    "runtime-main.js": "/levelChange-advanced/static/js/runtime-main.8a57262b.js",
+    "runtime-main.js.map": "/levelChange-advanced/static/js/runtime-main.8a57262b.js.map",
+    "static/js/2.0dd00019.chunk.js": "/levelChange-advanced/static/js/2.0dd00019.chunk.js",
+    "static/js/2.0dd00019.chunk.js.map": "/levelChange-advanced/static/js/2.0dd00019.chunk.js.map",
+    "index.html": "/levelChange-advanced/index.html",
+    "precache-manifest.0ec43f04d8008dff5388210bab47ee6f.js": "/levelChange-advanced/precache-manifest.0ec43f04d8008dff5388210bab47ee6f.js",
+    "service-worker.js": "/levelChange-advanced/service-worker.js",
+    "static/css/main.7a4dbaea.chunk.css.map": "/levelChange-advanced/static/css/main.7a4dbaea.chunk.css.map",
+    "static/js/2.0dd00019.chunk.js.LICENSE.txt": "/levelChange-advanced/static/js/2.0dd00019.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a57262b.js",
+    "static/js/2.0dd00019.chunk.js",
+    "static/css/main.7a4dbaea.chunk.css",
+    "static/js/main.31728c68.chunk.js"
+  ]
+}
